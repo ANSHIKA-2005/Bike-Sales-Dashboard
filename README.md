@@ -3,4 +3,4 @@ An interactive bike sales dashboard built after cleaning and preparing the datas
 
 
 Dataset Used:
-<a href="https://github.com/ANSHIKA-2005/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx">Dataset
+<a href="https://github.com/ANSHIKA-2005/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx">Bike buyers
